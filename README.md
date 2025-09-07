@@ -2,17 +2,6 @@
 
 A smart, conversational AI chat assistant built using Streamlit that enhances user experience on e-commerce platforms by handling both customer queries and product discovery. Powered by Retrieval-Augmented Generation (RAG) using LLaMA3 (via GROQ) and local database integration, this assistant helps users with instant and intelligent responses.
 
----
-
-## 🌐 Live Website
-You can try the tool live here: **[E-commerce Chat Assistant](https://vaibhav-project-e-commerce-chat-assistant.streamlit.app/)**
-
----
-
-## 🎥 Presentation
-Watch the full project presentation here: **[E-commerce Chat Assistant](https://vaibhav-project.my.canva.site/e-commerce-chat-assistant-presentation)**
-
----
 
 ## 📌 Dataset Information
 The product data currently includes only women’s footwear. Each product contains attributes like brand, title, price, discount, rating, and total number of reviews.
