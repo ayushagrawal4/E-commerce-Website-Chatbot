@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 chromadb==0.5.3
 groq==0.30.0
 pandas==2.3.1
@@ -6,3 +7,13 @@ semantic_router==0.1.10
 streamlit==1.45.1
 sentence_transformers==5.0.0
 pysqlite3-binary==0.5.4
+=======
+streamlit
+pandas
+pandasql
+python-dotenv
+groq
+semantic-router[local]
+chromadb
+sentence_transformers
+>>>>>>> a1d3a49 (Final)
